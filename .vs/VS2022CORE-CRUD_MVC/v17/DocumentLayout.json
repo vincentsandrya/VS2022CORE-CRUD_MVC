@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|c:\\github\\vs2022core-crud_mvc\\vs2022core-crud_mvc\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|solutionrelative:vs2022core-crud_mvc\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|c:\\github\\vs2022core-crud_mvc\\vs2022core-crud_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|solutionrelative:vs2022core-crud_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|c:\\github\\vs2022core-crud_mvc\\vs2022core-crud_mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|solutionrelative:vs2022core-crud_mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|c:\\github\\vs2022core-crud_mvc\\vs2022core-crud_mvc\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|solutionrelative:vs2022core-crud_mvc\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|c:\\github\\vs2022core-crud_mvc\\vs2022core-crud_mvc\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|solutionrelative:vs2022core-crud_mvc\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|c:\\github\\vs2022core-crud_mvc\\vs2022core-crud_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572216A0-6E19-4454-9E40-88C5B36CF916}|VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC.csproj|solutionrelative:vs2022core-crud_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Readme.txt",
+              "RelativeDocumentMoniker": "VS2022CORE-CRUD_MVC\\Readme.txt",
+              "ToolTip": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Readme.txt",
+              "RelativeToolTip": "VS2022CORE-CRUD_MVC\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-28T04:18:14.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "VS2022CORE-CRUD_MVC\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "VS2022CORE-CRUD_MVC\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:50:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VS2022CORE-CRUD_MVC\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "VS2022CORE-CRUD_MVC\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:22:49.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "VS2022CORE-CRUD_MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "VS2022CORE-CRUD_MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwE0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:14:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "VS2022CORE-CRUD_MVC\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "VS2022CORE-CRUD_MVC\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:42:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "VS2022CORE-CRUD_MVC\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\GitHub\\VS2022CORE-CRUD_MVC\\VS2022CORE-CRUD_MVC\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "VS2022CORE-CRUD_MVC\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:37:07.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
